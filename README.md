@@ -9,6 +9,15 @@ A lightweight 3D **render engine** written in **C++** with **OpenGL**. It focuse
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 
+<img width="1358" height="713" alt="image" src="https://github.com/user-attachments/assets/620e2b0e-f5d3-44ae-a9b8-db222a65644d" />
+
+
+<img width="1354" height="713" alt="image" src="https://github.com/user-attachments/assets/85fb4e47-bb7b-403a-b2a2-29b7d1544d73" />
+
+<img width="1352" height="710" alt="image" src="https://github.com/user-attachments/assets/a8bd01c4-22a3-4a75-bb85-ce1a3746936f" />
+
+<img width="1358" height="761" alt="image" src="https://github.com/user-attachments/assets/c7d167dc-a9b8-49d8-9fa1-99ff529747c4" />
+
 ## ✨ Features
 
 - **3D rendering** with OpenGL 3.3 Core (cube, pyramid and light-source objects)
